@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "Pynk Duck"
+    },
+    "extDescription": {
+        "message": "Example of how to localize a WXT web extension."
+    }
+}
